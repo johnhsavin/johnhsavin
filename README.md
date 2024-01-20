@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Mobile App Development | AI | REACT**
 
-- 📫 How to reach me **johnsavindev@proton.me**
+- 📫 How to reach me **johnsavindev@proton.me || 917.576.1008**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
