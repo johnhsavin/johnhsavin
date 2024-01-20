@@ -1,6 +1,6 @@
 ### Hi there 👋, Hello, my name is John Savin
 #### I am a full-stack software engineer
-![I am a full-stack software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/linkedin_banner.jpeg)
+![I am a full-stack software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 After 2 decades of serving as a wealth manager, I decided to transfer my skills and pivot into software engineering. I am also a father of 3 young boys. 
 
