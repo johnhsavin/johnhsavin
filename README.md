@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Savin</h1>
 <h3 align="center">A Full-Stack Software Engineer located in South Florida</h3>
-![I am a full-stack software engineer](linkedin_banner.jpeg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnhsavin&label=Profile%20views&color=0e75b6&style=flat" alt="johnhsavin" /> </p>
 
@@ -8,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/johnhsavin" target="blank"><img src="https://img.shields.io/twitter/follow/johnhsavin?logo=twitter&style=for-the-badge" alt="johnhsavin" /></a> </p>
 
-- 🔭 I’m currently working on **Unseen - A dating mobile app for the visually impaired**
+- 🔭 I’m currently working on **Unseen - A mobile dating app for the visually impaired**
 
 - 💬 Ask me about **Mobile App Development | AI | REACT**
 
@@ -29,15 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnhsavin&show_icons=true&locale=en" alt="johnhsavin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnhsavin&" alt="johnhsavin" /></p>
-### Hi there 👋, Hello, my name is John Savin
-#### I am a full-stack software engineer
-![I am a full-stack software engineer](linkedin_banner.jpeg)
 
-After 2 decades of serving as a wealth manager, I decided to transfer my skills and pivot into software engineering. I am also a father of 3 young boys. 
-
-Skills: REACT / REACT Native / JavaScript / HTML / CSS / Next.js / TypeScript / Tailwind.css / AWS / Google Cloud / MongoDB / PostgreSQL / Docker / Bootstrap / Node.js / Express.js / REST API / Expo / Unity 
-
-- 🔭 I’m currently working on this page. 
 
 
 
