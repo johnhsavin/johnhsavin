@@ -1,6 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Hello, my name is John Savin
+#### I am a full-stack software engineer
+![I am a full-stack software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm John and I am a Full-Stack Software Engineer. Prior to entering this industry, I dedicated over two decades as a wealth manager.
+After 2 decades of serving as a wealth manager, I decided to transfer my skills and pivot into software engineering. I am also a father of 3 young boys. 
+
+Skills: REACT / REACT Native / JavaScript / HTML / CSS / Next.js / TypeScript / Tailwind.css / AWS / Google Cloud / MongoDB / PostgreSQL / Docker / Bootstrap / Node.js / Express.js / REST API / Expo / Unity 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnhsavin&theme=transparent)](https://github.com/johnhsavin/github-readme-stats)
 
