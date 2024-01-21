@@ -8,6 +8,9 @@
 - 💬 Ask me about **Mobile App Development | AI | REACT**
 
 - 📫 How to reach me **johnsavindev@proton.me || mobile 917.576.1008**
+  
+- 📄 Know about my experiences [https://docs.google.com/document/d/13LueWvlYTXQYjI4-mFQiBX-nP-NUmjUmQg2AVwgnEnY/edit#heading=h.ee89inysgqmr](https://docs.google.com/document/d/13LueWvlYTXQYjI4-mFQiBX-nP-NUmjUmQg2AVwgnEnY/edit#heading=h.ee89inysgqmr)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
