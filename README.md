@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Savin</h1>
 <h3 align="center">A Full-Stack Software Engineer located in South Florida</h3>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnhsavin" alt="johnhsavin" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/johnhsavin" target="blank"><img src="https://img.shields.io/twitter/follow/johnhsavin?logo=twitter&style=for-the-badge" alt="johnhsavin" /></a> </p>
 
 - 🔭 I’m currently working on **Unseen - A mobile dating app for the visually impaired**
